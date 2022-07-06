@@ -2,30 +2,159 @@ body {
     font-family: 'Lato', sans-serif;
     font-family: 'Oswald', sans-serif;
     font-family: 'Poppins', sans-serif;
-    color: white;
-    background-image: url(images/bgg.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+
+    margin: 0%;
 
 
 }
+
+.bg-img {
+    background-image: url(images/bgg.jpg);
+    background-repeat: no-repeat;
+    padding: 200px;
+    background-size: cover;
+    width: 70%;
+    padding-bottom: 300px;
+    padding-top: 20px;
+    background-attachment: fixed;
+
+}
+
+.white {
+    color: white;
+}
+
+
+
 
 .center {
     text-align: center;
     font-size: 60px;
 
+
 }
 
 .center1 {
     text-align: center;
+    padding-bottom: 30px;
 }
 
 .link-margin {
-    margin-left: 45%;
+    margin-left: 42%;
     text-decoration: none;
     font-weight: 700;
     background-color: aquamarine;
     padding: 10px 20px;
     border-radius: 15px;
 
+
+}
+
+.flex {
+    display: flex;
+    margin-left: 10%;
+
+}
+
+.space {
+    margin-left: 40px;
+    background-color: whitesmoke;
+    padding: 40px;
+}
+
+.center2 {
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 60px;
+}
+
+#color {
+    background-color: whitesmoke;
+    padding: 40px;
+}
+
+#color2 {
+    background-color: lightpink;
+    border: 5px solid red;
+    color: red;
+}
+
+#center3 {
+    text-align: center;
+    color: darkgray;
+}
+
+hr {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 40px;
+}
+
+#mid {
+    margin-left: 44%;
+
+}
+
+.center3 {
+    text-align: center;
+
+
+}
+
+#space1 {
+    margin-top: 10%;
+}
+
+.flex1 {
+    display: flex;
+    margin-top: 80px;
+
+
+}
+
+#food {
+    margin-left: 20%;
+
+}
+
+#bg-food {
+    background-color: paleturquoise;
+    margin-left: 10%;
+    padding: 30px;
+}
+
+#shelter {
+    margin-left: 15%;
+}
+
+#bg-shelter {
+    background-color: lightpink;
+    margin-left: 3%;
+    padding: 30px;
+}
+
+#education {
+    margin-left: 15%;
+}
+
+#bg-education {
+    background-color: bisque;
+    margin-left: 3%;
+    padding: 30px;
+    margin-right: 10%;
+
+}
+
+footer {
+    background-color: black;
+    color: white;
+
+}
+
+#orange {
+    color: orangered;
+}
+
+#blue {
+    color: darkslateblue;
 }
