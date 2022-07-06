@@ -145,6 +145,83 @@ hr {
 
 }
 
+.flex2 {
+    display: flex;
+    width: 90%;
+    margin: 10%;
+}
+
+.flex2 img {
+    width: 60%
+}
+
+#img-set {
+    margin-left: 3%;
+}
+
+#margin-bottom {
+    margin-bottom: 40px;
+}
+
+#margin-bottom1 {
+    margin-bottom: 40px;
+}
+
+#button {
+    margin: 0%;
+}
+
+.flex3 {
+    display: flex;
+    width: 90%;
+    margin-left: 10%;
+}
+
+.flex3 img {
+    width: 80%;
+
+}
+
+#mi {
+    margin-left: 0;
+}
+
+.middle {
+    text-align: center;
+}
+
+.last-flex {
+    display: flex;
+    margin-left: 28%;
+    background-color: antiquewhite;
+    padding: 50px 100px 50px 100px;
+    margin-right: 27%;
+
+}
+
+#email {
+    background-color: dimgray;
+    color: darkgray;
+
+    padding: 10px 200px 10px 10px;
+}
+
+#subscribe {
+    background-color: crimson;
+    color: white;
+    padding: 10px;
+}
+
+#margin1 {
+    margin-bottom: 70px;
+}
+
+#margin-top {
+    margin-top: 10%;
+}
+
+
+
 footer {
     background-color: black;
     color: white;
